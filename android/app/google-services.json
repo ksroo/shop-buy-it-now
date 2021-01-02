@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222469534304",
+    "project_id": "buy-it-a1800",
+    "storage_bucket": "buy-it-a1800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222469534304:android:a87924f1cc267d265fc905",
+        "android_client_info": {
+          "package_name": "com.asroo.e_commerce_appp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222469534304-ifmk57fcrrlt2rp81c3fm49k0492bsv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb03cCSJj6057m_i-06ObNMpFYLFHBPck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222469534304-ifmk57fcrrlt2rp81c3fm49k0492bsv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
